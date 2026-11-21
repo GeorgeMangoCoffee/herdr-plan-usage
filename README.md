@@ -12,7 +12,7 @@ Tell your Herdr agent:
 
 Or by hand:
 
-1. Copy `mods/plan-usage/` to `~/.config/herdr-app/mods/plan-usage/`.
+1. Copy `mods/plan-usage/` to `~/.config/herdr-app/mods/plan-usage/`. Only that folder. `RECIPE.md` and `preview.png` stay out.
 2. Run `herdr-app check ~/.config/herdr-app/mods/plan-usage`.
 3. The panel docks on the right.
 
